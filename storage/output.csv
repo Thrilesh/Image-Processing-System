@@ -1,0 +1,3 @@
+Product Name,Input Image Urls,Output Image Urls
+SKU1,https://picsum.photos/150,storage/output_images\output_0.jpg
+SKU2,https://picsum.photos/400,storage/output_images\output_0.jpg
